@@ -58,4 +58,7 @@ my story with leetcode
 
 ## 🗡指offer
 
-新开的🕳，目前还没做很多题
+新开的🕳，目前还没做很多题（目前进度：
+
+![](others/image/offer2.jpg)
+
